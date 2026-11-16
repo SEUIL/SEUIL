@@ -10,6 +10,12 @@
 
 ### Connect · 연락하기
 
+<p align="center">
+  <a href="mailto:sone91961@gmail.com">sone91961@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="tel:+821024280919">010-2428-0919</a>
+</p>
+
 ---
 
 ### Tech Stack · 기술 스택
