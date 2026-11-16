@@ -6,6 +6,12 @@
 
 ### Project · 프로젝트
 
+<p align="center">
+  <a href="https://seuil.github.io/portfolio/">
+    <img src="./assets/portfolio-link.png" alt="포트폴리오 보기" width="180">
+  </a>
+</p>
+
 ---
 
 ### Connect · 연락하기
